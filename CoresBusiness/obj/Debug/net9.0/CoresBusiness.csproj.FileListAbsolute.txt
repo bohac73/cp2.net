@@ -1,0 +1,5 @@
+C:\Users\RodrigoRios\webapi\CoresBusiness\obj\Debug\net9.0\CoresBusiness.csproj.AssemblyReference.cache
+C:\Users\RodrigoRios\webapi\CoresBusiness\obj\Debug\net9.0\CoresBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RodrigoRios\webapi\CoresBusiness\obj\Debug\net9.0\CoresBusiness.AssemblyInfoInputs.cache
+C:\Users\RodrigoRios\webapi\CoresBusiness\obj\Debug\net9.0\CoresBusiness.AssemblyInfo.cs
+C:\Users\RodrigoRios\webapi\CoresBusiness\obj\Debug\net9.0\CoresBusiness.csproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+C:\Users\RodrigoRios\webapi\CoresModel\bin\Debug\net9.0\CoresModel.deps.json
+C:\Users\RodrigoRios\webapi\CoresModel\bin\Debug\net9.0\CoresModel.dll
+C:\Users\RodrigoRios\webapi\CoresModel\bin\Debug\net9.0\CoresModel.pdb
+C:\Users\RodrigoRios\webapi\CoresModel\obj\Debug\net9.0\CoresModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RodrigoRios\webapi\CoresModel\obj\Debug\net9.0\CoresModel.AssemblyInfoInputs.cache
+C:\Users\RodrigoRios\webapi\CoresModel\obj\Debug\net9.0\CoresModel.AssemblyInfo.cs
+C:\Users\RodrigoRios\webapi\CoresModel\obj\Debug\net9.0\CoresModel.csproj.CoreCompileInputs.cache
+C:\Users\RodrigoRios\webapi\CoresModel\obj\Debug\net9.0\CoresModel.dll
+C:\Users\RodrigoRios\webapi\CoresModel\obj\Debug\net9.0\refint\CoresModel.dll
+C:\Users\RodrigoRios\webapi\CoresModel\obj\Debug\net9.0\CoresModel.pdb
+C:\Users\RodrigoRios\webapi\CoresModel\obj\Debug\net9.0\ref\CoresModel.dll
